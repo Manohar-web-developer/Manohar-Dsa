@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mac/Documents/Manohar DSA",
+      "program": "/Users/mac/Documents/Manohar DSA/build/Debug/outDebug"
+    }
+  ]
+}
